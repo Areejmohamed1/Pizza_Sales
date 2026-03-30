@@ -1,6 +1,7 @@
 # 🍕Pizza Sales Analysis Dashboard  
 
 ![Dashboard Preview](Dashboard1.PNG)  
+
 ![Dashboard Preview](Dashboard2.PNG)  
 
 ## Project Overview  
