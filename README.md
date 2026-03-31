@@ -9,7 +9,7 @@ This project presents an end-to-end data analysis workflow for pizza sales. It c
 
 ---
 
-## 🚀 Key Features  
+## Key Features  
 - KPI calculation using SQL  
 - Daily & Monthly sales trend analysis  
 - Sales breakdown by category & size  
@@ -26,7 +26,7 @@ This project presents an end-to-end data analysis workflow for pizza sales. It c
 
 ---
 
-## 📈 Key Metrics  
+## Key Metrics  
 - Total Revenue  
 - Average Order Value  
 - Total Pizzas Sold  
